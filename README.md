@@ -1,16 +1,22 @@
-## Hi there 👋
+#### 🛠️ Мой стек:
 
-<!--
-**Marvelbad/Marvelbad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Уверенно:
+![alt text](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-Here are some ideas to get you started:
+![alt text](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![alt text](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+
+![alt text](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+![alt text](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+В процессе активного изучения:
+![alt text](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+![alt text](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+#### 🎯 Сейчас фокусируюсь на:
+Разработке простого REST API на Spring Boot. Цель — закрепить практические навыки создания backend-сервисов.
+Решении алгоритмических задач.
+#### 📫 Как связаться:
+Telegram: @[Sandrik2012]
+Email: [badra.aqua@gmail.com]
