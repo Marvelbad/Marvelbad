@@ -13,9 +13,6 @@
 ![alt text](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 ![alt text](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-#### 🎯 Сейчас фокусируюсь на:
-Разработке простого REST API на Spring Boot. Цель — закрепить практические навыки создания backend-сервисов.
-Решении алгоритмических задач.
-#### 📫 Как связаться:
-Telegram: @[Sandrik2012]
+
+Telegram: @[badri_dev]
 Email: [badra.aqua@gmail.com]
